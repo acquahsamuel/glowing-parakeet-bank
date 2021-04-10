@@ -1,0 +1,47 @@
+[{
+
+        "AccountName": "Current Account",
+        "BankBalance": 20310.0000,
+        "BankFeedsAccountId": 0,
+        "Code": 100,
+        "StartingAmount": 0
+
+    },
+    {
+
+        "AccountName": "HSBC",
+        "BankBalance": 1200.0000,
+        "BankFeedsAccountId": 0,
+        "Code": 301,
+        "StartingAmount": 0
+
+    },
+    {
+
+        "AccountName": "FLIP",
+        "BankBalance": 90310.0000,
+        "BankFeedsAccountId": 0,
+        "Code": 12,
+        "StartingAmount": 0
+
+    },
+    {
+
+        "AccountName": "ICICI",
+        "BankBalance": 720310.0000,
+        "BankFeedsAccountId": 0,
+        "Code": 16,
+        "StartingAmount": 0
+
+    },
+    {
+
+        "AccountName": "SWITCH",
+        "BankBalance": 10200.0000,
+        "BankFeedsAccountId": 0,
+        "Code": 20,
+        "StartingAmount": 0
+
+    }
+]
+

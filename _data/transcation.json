@@ -1,0 +1,25 @@
+[{
+        "AccountName": "HSBC",
+        "BankBalance": 1120.00,
+        "TransferedTo" : "Pi Codes " ,
+        "TransferedAmount" : 3044
+    },
+    {
+        "AccountName": "HSBC",
+        "BankBalance": 209.00,
+        "TransferedTo" : "Bot Father" ,
+        "TransferedAmount" : 3044
+    },
+    {
+        "AccountName": "HSBC",
+        "BankBalance": 1201.00,
+        "TransferedTo" : "Stanbic Bank" ,
+        "TransferedAmount" : 3044
+    },
+    {
+        "AccountName": "HSBC",
+        "BankBalance": 2300.00,
+        "TransferedTo" : "Hugkae" ,
+        "TransferedAmount" : 3044
+    }
+]
